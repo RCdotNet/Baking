@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="ingrediensTitleText">Ingediens (click to expand)</string>
+    <string name="ingrediensTitleTextCollapse">Ingediens (click to collapse)</string>
+    <string name="appwidget_text">Baking Widget</string>
+    <string name="appwidgetTitleText"> ingrediens</string>
+    <string name="add_widget">Add widget</string>
+</resources>
